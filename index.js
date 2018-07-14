@@ -9,5 +9,8 @@ function nowServing(){
 }
 
 function currentLine(){
-  for 
+  if (katzDeliLine.length = 0) return "The line is currently empty."
+  for(let i = 1; i<= katzDeliLine.length; i++){
+    
+  }
 }
